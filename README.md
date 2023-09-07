@@ -18,3 +18,5 @@ Execute the code cells in the notebook sequentially to perform data preprocessin
 Detailed explanations and comments are provided within the notebook to guide you through the project.
 
 The final recommendation system, User-User Based Collaborative Filtering, is presented with insights and evaluation metrics.
+
+## The project blog post can be found [here](https://abdulrahman-almutlaq.medium.com/enhancing-customer-engagement-building-a-starbucks-recommendation-system-d7987599b07b)
