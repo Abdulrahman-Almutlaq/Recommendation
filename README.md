@@ -5,9 +5,9 @@ This project aims to develop a recommendation system for Starbucks offers based 
 # Project Structure
 * Starbucks_Capstone_notebook.ipynb: Contains the code for data preprocessing, algorithm implementation, and evaluation.
 
-* data: The data folder contains the Starbucks data used for the project, including portfolio.json, profile.json, and transcript.json.
+* Data: The data folder contains the Starbucks data used for the project, including portfolio.json, profile.json, and transcript.json.
 
-* transcript_checkpoint.csv: A checkpoint of the data is saved. The production of this data can take some time, thus the code cell that produces this data has been commented.
+* Transcript_checkpoint.csv: A checkpoint of the data is saved. The production of this data can take some time, thus the code cell that produces this data has been commented.
 
 # Installation
 To run the code in the notebook, you'll need to download the required libraries using:
